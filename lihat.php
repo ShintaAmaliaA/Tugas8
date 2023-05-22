@@ -212,7 +212,7 @@
             </table>
         </div>
     </div>
-
+    <a href="reportexcel.php" class="btn btn-primary">Download Report Excel</a>
 </body>
 
 </html>
